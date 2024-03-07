@@ -1,4 +1,4 @@
-package codingbat;
+package com.codingbat;
 
 public class Mix {
     public static String mixString(String a, String b) {
@@ -25,6 +25,5 @@ public class Mix {
 
     public static void main(String[] args) {
         mixString("Hi","There");
-        "hi".re
     }
 }
